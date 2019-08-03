@@ -1,0 +1,12 @@
+{
+    "extends": ["plugin:prettier/recommended"],
+    "env": {
+        "commonjs": true,
+        "es6": true,
+        "node": true
+    },
+    "parserOptions": {
+        "sourceType": "script",
+        "ecmaVersion": 2019
+    }
+}
